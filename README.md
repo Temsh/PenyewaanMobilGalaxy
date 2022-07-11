@@ -4,7 +4,7 @@ This program was created by my team in the course of algorithms and data structu
 
 This program is a simple car rental program written in C language.
 
-This program is used to find and rent a car at the locations that have been registered (in the datacar.txt file) and also add new locations to be rented later.
+This program ican be used to find and rent a car at the locations that have been registered (in the datacar.txt file) and also add new locations to be rented later, rent a car and the rental list will be written into datasewa.txt.
 
 Program features:
 - perform a car search using a sequential search algorithm
