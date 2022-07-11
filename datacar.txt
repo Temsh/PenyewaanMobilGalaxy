@@ -1,0 +1,23 @@
+1#Alphard#Premium#Jl. Proklamasi No A-5#Depok#2019#8#800000
+2#Inova#Premium#Jl. Raya Utan Kayu No.105 B #Jakarta#2020#8#750000
+3#Alphard#Premium#Jl. Sawojajar No.12b#Bogor#2018#8#700000
+4#Alphard#Premium#Jl. Daan Mogot No. 183#Tangerang#2020#8#800000
+5#Innova#Premium#Jl. HM. Joyo Martono#Bekasi#2019#8#700000
+6#Xpander#Premium#Jl. Ridwan Rais No.3A#Depok#2019#8#680000
+7#Xpander#Premium#Jl. Pejaten Barat No. 69 Pejaten#Jakarta#2020#8#650000
+8#Livina#Premium#Jl. Pramuka No.55#Bekasi#2018#8#600000
+9#Livina#Premium#Jl. Ir. H. Juanda No.30#Bogor#2019#8#650000
+10#Xpander#Premium#Jl. Husein Sastra Negara No. 153#Tangerang#2020#8#780000
+11#Brio#Standard#Jl. Batu Jajar no. 11A, Sawah Besar#Jakarta#2020#5#500000
+12#Brio#Standard#Jl. Raya Pajajaran No.25#Bogor#2019#5#650000
+13#Avanza#Standard#Jl. Tole Iskandar No.12 A#Depok#2018#8#400000
+14#Avanza#Standard#Jl. Prambanan Raya No. 1#Tangerang#2019#8#430000
+15#Xenia#Standard#Jl. Pahlawan No.8c#Bekasi#2018#8#430000
+16#Xenia#Standard#Jln. Raya Bogor Km 21 No.17 #Jakarta#2019#8#400000
+17#APV#Standard#Jl. Kedung Halang No.59#Bogor#2018#8#420000
+18#APV#Standard#Jl. Arif Rahman Hakim 78 Beji Timur#Depok#2019#8#400000
+19#Calya#Standard#Jl. K. H. Hasyim Ashari No. 2#Tangerang#2020#5#350000
+20#Calya#Standard#Jl. Mayor Oking No.15#Bekasi#2020#5#400000
+21#Stefan#Premium#Jl. Agung Sentoso 1#Jakarta#2020#4#350000
+22#kevin#premium#jl. keraton 1#Tangerang#2019#4#350000
+23#Ibro#Premium#Jl.  Sultan Ageng 2#Jakarta#2019#4#455000
